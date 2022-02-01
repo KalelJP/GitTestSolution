@@ -14,7 +14,7 @@ namespace HelloGitTest
                 Console.WriteLine("=================");
                 Console.WriteLine("Let's test your Git knowledge!");
                 Console.WriteLine();
-                Console.WriteLine("With which command is utilised to put two branches together?");
+                Console.WriteLine("Which command is utilised to put two branches together?");
                 string sAnswer1 = Console.ReadLine();
                 if (sAnswer1.ToLower() == "merge")
                 {
